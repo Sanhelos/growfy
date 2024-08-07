@@ -1121,6 +1121,9 @@ body {
   border-radius: 30px;
   max-width: 395px;
 }
+.row-column:hover{
+  cursor: pointer;
+}
 .row-column__text {
   -webkit-box-align: start;
       -ms-flex-align: start;
